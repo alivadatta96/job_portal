@@ -1,0 +1,3 @@
+grp_det:sl,grpnm,crtby,crtdttm,grpstat
+grp_memdet:sl,grpid,memid,stat
+grp_ct:+grpid
